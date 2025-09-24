@@ -44,6 +44,8 @@ nav a {
     text-decoration: none;
     font-weight: 500;
     transition: color 0.3s ease;
+    margin-right: 35px;
+    font-size: 20px;
 }
 
 nav a:hover {
@@ -134,4 +136,55 @@ footer p {
         flex-direction: column;
         gap: 0.5rem;
     }
+}
+
+footer a {
+    margin-left: 50px;
+}
+
+
+
+
+
+
+/* Contact page box */
+.contact-box {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 1.5rem;
+  margin-top: 1rem;
+  border-radius: 8px;
+  max-width: 400px;
+}
+.contact-box a {
+  color: #3366cc;
+  text-decoration: none;
+}
+.contact-box a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
+
+/* License items */
+.license-item {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+}
+.license-item h3 {
+  margin-top: 0;
+  color: #333;
+}
+.license-item a {
+  color: #3366cc;
+  text-decoration: none;
+}
+.license-item a:hover {
+  text-decoration: underline;
 }
