@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Roboto:wght@300;400;500&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Roboto:wght@300;400;500&display=swap');*/
 
 /* Global Reset */
 * {
@@ -148,7 +148,7 @@ footer a {
   max-width: 400px;
 }
 .contact-box a {
-  color: #3366cc;
+  color: #fafafa;
   text-decoration: none;
 }
 .contact-box a:hover {
@@ -173,7 +173,7 @@ footer a {
   color: #333;
 }
 .license-item a {
-  color: #3366cc;
+  color: #fafafa;
   text-decoration: none;
 }
 .license-item a:hover {
