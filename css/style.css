@@ -85,19 +85,15 @@ ul {
   
 }
 
-/*Images 
+ 
 img {
     max-width: 40%;
     height: auto;
     border-radius: 10px;
     box-shadow: 2px 2px 8px rgba(0,0,0,0.15);
     margin: 1rem 0;
-} */
+} 
 
-.image img {
-  width: 400px;
-  border-radius: 8px;
-}
 
 
 /* Footer */
