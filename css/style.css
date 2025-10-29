@@ -144,16 +144,12 @@ footer a {
   max-width: 400px;
 }
 .contact-box a {
-  color: #fafafa;
+  color: #1F51FF;
   text-decoration: none;
 }
 .contact-box a:hover {
   text-decoration: underline;
 }
-
-
-
-
 
 
 /* License items */
@@ -169,9 +165,15 @@ footer a {
   color: #333;
 }
 .license-item a {
-  color: #fafafa;
+  color: #1F51FF;
   text-decoration: none;
 }
 .license-item a:hover {
   text-decoration: underline;
+}
+
+
+
+a.footer-link:visited {
+  color: #481862; 
 }
