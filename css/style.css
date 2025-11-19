@@ -177,3 +177,8 @@ footer a {
 a.footer-link:visited {
   color: #481862; 
 }
+
+.banner-link img {
+    border-radius: 0%;
+    display: block;
+  }
